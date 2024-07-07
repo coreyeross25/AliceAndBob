@@ -29,6 +29,5 @@ public class Main {
         // Print greeting to screen if Alice or Bob are true
         
         // Print "You are neither Alice nor Bob." otherwise
-
     }
 }
