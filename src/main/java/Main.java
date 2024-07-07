@@ -21,7 +21,7 @@ public class Main {
         if (name.equals("Alice") || name.equals("Bob")) {
             System.out.println("Hello " + name + "!");
         } else {
-            System.out.println("You are neither Alice nor Bob.");
+            System.out.println("You are neither Alice nor Bob!");
         }
         scanner.close();
         // Create conditional to check name against Alice and Bob
